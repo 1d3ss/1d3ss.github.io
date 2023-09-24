@@ -3,7 +3,7 @@ const age = prompt(`Введи вік: `);
 
 let urName = document.getElementById('urName')
 let urAge = document.getElementById('urAge')
-urName.innerHTML = `Приві, ${userName}!`
+urName.innerHTML = `Привіт, ${userName}!`
 urAge.innerHTML = `Тобі ${age}`
 
 const greetingFrame = document.getElementById("data");
