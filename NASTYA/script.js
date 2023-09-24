@@ -1,7 +1,10 @@
-// const groupName = prompt(`Введи ім'я: `);
+const userName = prompt(`Введи ім'я: `);
+const age = prompt(`Введи вік: `);
 
-// let output = document.getElementById("ns");
-// output.innerHTML = `${groupName}`
+let urName = document.getElementById('urName')
+let urAge = document.getElementById('urAge')
+urName.innerHTML = `Приві, ${userName}!`
+urAge.innerHTML = `Тобі ${age}`
 
 const greetingFrame = document.getElementById("data");
 const overlay = document.getElementById("overlay");
