@@ -73,7 +73,7 @@ p {
 
 
 h1 {
-    	font-family: 'Qwigley', cursive, Helvetica, Sans-serif;	   
+    	font-family: 'Dancing Script', cursive;  
     	font-size: 2.2em;
 	font-weight: 600;
     	color: #4f4d47;
@@ -122,7 +122,7 @@ h4 {
 
 
 .heading-inner {
-    font-family: 'Qwigley', Helvetica, Sans-serif;	   
+    font-family: 'Dancing Script', cursive;	   
     font-size: 2.2em;
 	font-weight: 600;
     color: #4f4d47;
@@ -173,7 +173,7 @@ h4 {
 .navbar-default .navbar-brand {
     padding: 10px 12px 14px;
     text-align: center;
-    font-family: 'Qwigley', Helvetica, Sans-serif;		
+    font-family: 'Dancing Script', cursive;		
 	font-size: 2.4em;
     line-height: normal;
     color: #4f4d47;
@@ -219,7 +219,7 @@ h4 {
     margin: 0;
     padding: 30px 0 14px;
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Dancing Script', cursive;
     font-size: 3.5em;
     line-height: normal;
     color: #4f4d47;
