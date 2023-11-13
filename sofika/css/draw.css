@@ -49,23 +49,6 @@ body{
   box-sizing: border-box;
 }
 
-.brand {
-  display: none;
-  flex-direction: column;
-  box-shadow: inset;
-}
-
-.brand .title {
-    display: block;
-    padding: 10px 0 45px;
-    text-align: center;
-    font-size: 0.3em;
-    font-weight: 400;
-	  color: #999999;
-    text-transform: lowercase;
-	  font-family: 'Oxygen', sans-serif;	
-}
-
 .nav {
   display: flex;
   list-style-type: none;
